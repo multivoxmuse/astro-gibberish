@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'xml-simple'
+gem 'unirest'
+gem 'twitter'
+gem 'marky_markov'
+gem 'rspec'
